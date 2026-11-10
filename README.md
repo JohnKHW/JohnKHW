@@ -2,12 +2,12 @@
 
 Full-stack software engineer in Hong Kong. I build the software operations run on: enterprise platforms, LLM-driven IT service automation, clinic and factory systems, fintech integrations and cloud delivery.
 
-🏆 **WorldSkills Competition 2022 Special Edition — Champion, Web Technologies**
+🏆 **WorldSkills Competition 2022 Special Edition — Hong Kong representative, Web Technologies**
 ☁️ CKA · CKAD · AWS Solutions Architect – Associate · AWS Developer – Associate
 
 ### Now
 
-- **Analyst Programmer, Gammon Construction** (Nov 2024 – present). On the Operations team I designed and built an LLM-driven IT service request (ITSM) platform that replaces a legacy ServiceNow-based eForm, using Azure OpenAI intent routing, a reusable in-process workflow engine with a VS Code flow editor, and Microsoft Entra ID / Graph approval chains. Also a cross-domain Active Directory password-reset service (Go master, Java / Spring Boot agents) and procurement browser automation. Earlier: a React microfrontend platform (deployment downtime ~2 min → ~1 min) and LLM-assisted invoice matching (~30% less manual entry).
+- **Analyst Programmer, Gammon Construction** (Nov 2024 – present). On the Operations team I designed and built an LLM-driven IT service request (ITSM) platform that replaces a legacy ServiceNow-based eForm, using Azure OpenAI intent routing, a reusable in-process workflow engine with a VS Code flow editor, and Microsoft Entra ID / Graph approval chains. Also a cross-domain Active Directory password-reset service (Go master, Java / Spring Boot agents), Playwright / Puppeteer automation for an end-to-end procurement flow (proof of concept moving to implementation), and a resumable migration tool moving tens of terabytes from thousands of SharePoint Online sites to the on-prem data centre (in progress). I also led the AI coding assistant evaluation and rollout for a department of ~80. Earlier: a React microfrontend platform (deployment downtime ~2 min → ~1 min) and LLM-assisted invoice matching (~30% less manual entry).
 - **Founder, Pulse Nova Inno Tech Limited** (freelance since 2024, incorporated 2026). Lead developer of a clinic operations platform used across four branches (Next.js, Express, PostgreSQL, AWS ECS / Lambda, Terraform), including OCR medication intake (~10 min → ~1 min) and a legacy-system migration.
 
 ### Before
@@ -25,7 +25,7 @@ Full-stack software engineer in Hong Kong. I build the software operations run o
 - 🌐 Website: [johnkhw.work](https://johnkhw.work/)
 - 💼 LinkedIn: [linkedin.com/in/johnkhw](https://www.linkedin.com/in/johnkhw/)
 - 🎖️ Credly: [credly.com/users/ka-hing-wong](https://www.credly.com/users/ka-hing-wong/badges)
-- 📫 Email: wongkahingjohn@gmail.com
+- 📫 Email: iam@johnkhw.work
 
 Most of my work is for employers and clients, so it lives in private repositories.
 
